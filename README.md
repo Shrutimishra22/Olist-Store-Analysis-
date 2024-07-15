@@ -6,6 +6,11 @@ https://drive.google.com/drive/u/0/folders/1x_glAxplfir1_42zzyG6psQU4b-jfApq
 
 
 
+
+
+
+
+
 **Project name : Olist Store Analysis
 Domain : Ecommerce
 Tools: Excel,PowerBi,Tableau,MySQL**
